@@ -1,3 +1,3 @@
-x = 117
+print(6//4)
 
-print(x % 10)
+print(6%4)
